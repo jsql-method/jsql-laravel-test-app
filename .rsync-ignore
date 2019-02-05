@@ -1,0 +1,6 @@
+- .git
+- .idea
+- .env
+- storage/logs/*
+- storage/framework/*
+- bootstrap/cache/*

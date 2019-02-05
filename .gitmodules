@@ -1,0 +1,3 @@
+[submodule "packages/jsql/laravel-plugin"]
+	path = packages/jsql/laravel-plugin
+	url = git@bitbucket.org:jsql/jsql-laravel-plugin.git
